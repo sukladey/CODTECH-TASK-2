@@ -43,5 +43,4 @@ Logistic Regression
 
 ## Output
 The model predicts whether a student will PASS or FAIL based on academic indicators.
-<img src="task 2.1.png" width="400" alt="Screenshot"/>
-<img src="task 2.2.png" width="400" alt="Screenshot"/>
+
