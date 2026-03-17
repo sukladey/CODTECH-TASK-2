@@ -2,9 +2,9 @@
 
 Name: SUKLA DEY\
 Selected For: DATA ANALYTICS\
-Organization: CODTECH IT SOLUTIONS PRIVATE LIMITED
-Duration: 4 WEEK
-Internship Period: 02 MARCH 2026 - 30 MARCH 2026
+Organization: CODTECH IT SOLUTIONS PRIVATE LIMITED\
+Duration: 4 WEEK\
+Internship Period: 02 MARCH 2026 - 30 MARCH 2026\
 Intern ID: CTIS6625
 
 
