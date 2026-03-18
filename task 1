@@ -1,4 +1,4 @@
-# Install necessary libraries (skip if already installed)
+
 import os
 os.system("pip install pandas numpy seaborn matplotlib scikit-learn")
 
